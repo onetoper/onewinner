@@ -14,7 +14,7 @@ html, body {
     left: -20px;
     width: calc(100% + 40px);
     height: calc(100% + 40px);
-    background-image: url("imgs/Эстетика.jpg");
+    background-image: url("Эстетика.jpg");
     background-position: center;
     background-size: cover;
     filter: blur(80px);
